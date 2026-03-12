@@ -108,7 +108,7 @@ export default function CarModal({ car, isOpen, onClose }: CarModalProps) {
                                 </div>
 
                                 <a
-                                    href={`https://wa.me/917356282445?text=${whatsappMessage}`}
+                                    href={`https://wa.me/917306161026?text=${whatsappMessage}`}
                                     target="_blank"
                                     className={cn(
                                         "w-full py-5 text-white font-bold rounded-2xl flex items-center justify-center gap-3 transition-all shadow-2xl text-lg",
